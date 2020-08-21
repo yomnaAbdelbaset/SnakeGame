@@ -1,0 +1,30 @@
+﻿  init.c
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(26,19): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(26,25): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(26,31): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(73,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(73,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(73,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(77,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(77,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(81,14): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(81,17): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(82,18): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(82,21): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(83,18): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(83,25): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(84,14): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(84,21): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(121,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(121,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(124,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(124,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(124,30): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(162,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(162,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(163,15): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(163,22): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(163,33): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(163,44): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Project2\Game\init.c(176,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\Yomna Abd-Elbaset\source\repos\Project2\Debug\Project2.exe
