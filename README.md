@@ -1,2 +1,2 @@
 # SnakeGame
-Snake game using C language and OpenGL
+Simple Snake Game using C language and OpenGL
